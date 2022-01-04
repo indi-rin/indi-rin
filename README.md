@@ -3,12 +3,12 @@
 I'm Indi, a full-stack software engineer. A long-time lover of logic puzzles and pattern-matching, I originally dipped my toes into programming with Lua and Java in high school and C++ in college, before diving into web and mobile development.
 
 Outside of programming, I love:
-💃 Ballroom dance
-🏰 Medieval history
-🎨 Art & storytelling
-🥧 Baking
+- 💃 Ballroom dance
+- 🏰 Medieval history
+- 🎨 Art & storytelling
+- 🥧 Baking
 
-## Languages & Tools:
+# Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
