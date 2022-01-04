@@ -8,7 +8,7 @@ Outside of programming, I love:
 🎨 Art & storytelling
 🥧 Baking
 
-Languages & Tools:
+## Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -23,5 +23,6 @@ Languages & Tools:
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+
 
 And I'm in the process of learning MySQL and Ruby on Rails for a non-profit I volunteer for.
