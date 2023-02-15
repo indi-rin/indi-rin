@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hi there
 
-I'm Indi, a full-stack software engineer. A long-time lover of logic puzzles and pattern-matching, I originally dipped my toes into programming with Lua and Java in high school and C++ in college, before diving into JavaScript web and mobile development. I'm continuing to refine those skills with TypeScript, as a solutions engineer at Axios and programming on a volunteer basis for a non-profit, while also dipping my toe into Python and Django.
+I'm Indi, a full-stack software engineer. A long-time lover of logic puzzles and pattern-matching, I originally dipped my toes into programming with Lua and Java in high school and C++ in college, before diving into JavaScript web and mobile development. I'm continuing to refine those skills with a focus on TypeScript, React, Python, and Django.
 
 Outside of programming, I love:
 - 💃 Ballroom dance
